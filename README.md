@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Himanshu%20Bahetiya!&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
-<h3 align="center">🚀 Backend Developer | Ruby on Rails | AI / ML </h3>
+<h3 align="center"> AI / ML Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Ruby+on+Rails+%7C+Python;AI+and+RAG+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
