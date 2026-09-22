@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 B.E. in **Computer Science** from **IET DAVV, Indore**
-- 💼 **6 months internship** at **Pixoatic Solutions Pvt. Ltd.**
+- 💼 **6 months internship** at **Technorize software solution.**
 - 🔧 Worked on **live production projects**
 - 🌱 Learning **Python & AI/ML**
 - 🤖 Built **RAG-based AI Teaching Assistant**
@@ -26,22 +26,24 @@
 
 ## 🏢 Experience
 
-### 💻 Backend Developer Intern  
-**Pixoatic Solutions Pvt. Ltd.** | Indore  
-📅 Dec 2024 – Jun 2025  
-
-✔ Built **RESTful APIs** using Ruby on Rails  
-✔ Integrated **Stripe Payments & Twilio Authentication**  
-✔ Implemented **User Authentication & Authorization**  
-✔ Wrote **Unit Tests** and maintained **CI/CD pipelines**  
-✔ Collaborated with frontend & QA teams  
+### 💻 AI/ML Intern  
+**Technorizen software solution. Ltd.** | Indore  
+📅 Jan 2025 – Jun 2025  
+Helmet Detection System (YOLOv8 + OpenCV)
+• Designed real-time helmet detection system achieving 90%+ accuracy
+• Implemented webcam and video-based object detection with bounding boxes
+• Trained custom datasets using Roboflow and Ultralytics YOLO
+RAG-based AI System (LLM + FastAPI)
+• Built context-aware chatbot using vector embeddings and LLMs
+• Improved response relevance by 40% using semantic retrieval
+• Integrated FastAPI backend for low-latency query processing 
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,python,rails,nodejs,react,html,css,postgres,mongodb,mysql,git,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,AI/ML,html,css,postgres,mongodb,mysql,git,postman&theme=dark" />
 </p>
 
 ---
@@ -49,7 +51,7 @@
 ## 🚀 Projects
 
 ### 🏥 Kiliwo – Personalized Healthcare App
-- Ruby on Rails app for a **Dubai-based client**
+- Python and AI/ML,  app for a **Dubai-based client**
 - Medication reminders & reward system
 - **Stripe payment** and **WhatsApp authentication**
 - Secure & scalable architecture
