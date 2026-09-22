@@ -50,13 +50,14 @@ RAG-based AI System (LLM + FastAPI)
 
 ## 🚀 Projects
 
-### 🏥 Kiliwo – Personalized Healthcare App
-- Python and AI/ML,  app for a **Dubai-based client**
-- Medication reminders & reward system
-- **Stripe payment** and **WhatsApp authentication**
-- Secure & scalable architecture
+Helmet Detection System (YOLOv8 + OpenCV)
+• Designed real-time helmet detection system achieving 90%+ accuracy
+• Implemented webcam and video-based object detection with bounding boxes
+• Trained custom datasets using Roboflow and Ultralytics YOLO
 
----
+House Price Prediction System
+• Built regression prediction model with R² score of 0.82
+• Applied feature engineering and hyperparameter tuning
 
 ### 🤖 AI Teaching Assistant (RAG-based)
 - Search topics inside **hundreds of video lectures**
