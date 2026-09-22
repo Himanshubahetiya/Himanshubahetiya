@@ -6,7 +6,7 @@
 <h3 align="center"> AI / ML Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Ruby+on+Rails+%7C+Python;AI+and+RAG+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;+%7C+Python;AI+and+RAG+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
